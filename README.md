@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ana Beatriz!
 
-<!--
-**frotaana/frotaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Atualmente estudando **Programação Web**  
+🚀 Participando do curso de Programação Web pelo projeto **Aranouá** (Parceria IFAM + Samsung)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+Sou uma estudante empolgada com o universo da tecnologia e apaixonada por aprender coisas novas!  
+Estou no começo da minha jornada em Engenharia de Software e explorando as possibilidades que a programação oferece — especialmente no mundo do desenvolvimento web. 🌐
+
+Aqui no meu GitHub você vai encontrar meus projetos, estudos e experiências enquanto construo minha base como desenvolvedora. Ainda estou descobrindo em qual área quero me especializar, mas o que não falta é vontade de crescer e fazer acontecer! 😄
+
+---
+
+### 🌱 Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+### 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/ana-b-74a264254/) 
+- E-mail: frotaana2005@gmail.com
+
+---
+
+✨ Obrigado por visitar meu perfil! Vamos codar o futuro juntos! 🚀
